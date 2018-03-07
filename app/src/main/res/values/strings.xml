@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FcmChat</string>
+    <string name="update">Update the value in Database</string>
+</resources>
